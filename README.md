@@ -5,7 +5,7 @@ Not too long ago I sourced a 36 year old Zenith travel television from a Goodwil
 In the name of keeping it retro and relatively smooth running, lightweight processing sketches would be projected on the screen. With simplicity, the final product could remain casual and the visuals could stay engaging longer before getting old - not to mention operate within the humble Pi's (...) hardware limitations. So that's what I did.
   
 ![Sort of a Tesseract](http://i.imgur.com/387aQe2.jpg)
-One of my favorite sketches running, this I feel embodies what the project is all about. 
+One of my favorite sketches running
 
 
 # DESCRIPTION
